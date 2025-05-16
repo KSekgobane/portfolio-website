@@ -21,15 +21,13 @@ nav {
   width: 100%;
   top: 0;
   z-index: 1000;
-  margin: 0;
-  align-items:center;
 }
 
 nav .logo {
   color: #ffffff;
   font-size: 1.5rem;
   font-weight: bold;
-  margin: 0;
+  
 }
 
 nav ul {
