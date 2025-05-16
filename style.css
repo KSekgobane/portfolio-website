@@ -45,7 +45,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ffdd57;
+  color: #4415c5;
 }
 
 /* Hero Section */
@@ -143,7 +143,7 @@ nav ul li a:hover {
 
 .projects-section h2 {
   font-size: 2.5rem;
-  color: #1f3c88;
+  color: #171718;
   margin-bottom: 2rem;
 }
 
@@ -167,7 +167,7 @@ nav ul li a:hover {
 }
 
 .project-card h3 {
-  color: #1f3c88;
+  color: #1d1e1f;
   margin-bottom: 1rem;
 }
 
@@ -187,7 +187,7 @@ nav ul li a:hover {
 
 .contact-section h2 {
   font-size: 2.5rem;
-  color: #1f3c88;
+  color: #474e61;
   margin-bottom: 1.5rem;
 }
 
@@ -200,7 +200,7 @@ nav ul li a:hover {
 }
 
 .contact-section a {
-  color: #1f3c88;
+  color: #474c57;
   text-decoration: none;
   font-weight: 600;
 }
